@@ -50,5 +50,5 @@ O Conexão Pet resolve esses problemas ao reunir todas essas informações em um
 - Aprovação de ONGs e moderação de anúncios pelo administrador
 - Denúncia de anúncios impróprios
 
-## 2. [Requisitos do Projeto](./Requisitos)
+## 2. [Requisitos do Projeto](./Requisitos.md)
 
