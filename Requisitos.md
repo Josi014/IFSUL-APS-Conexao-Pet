@@ -2,8 +2,8 @@
 
 ### 2.1 Requisitos Funcionais
 
-| ID | Descrição |
-|---|---|
+| ID | Descrição | Prioridade | Depende de |
+|---|---|---|---|
 | **RF01** | O sistema deve permitir que o usuário se cadastre informando nome, e-mail, telefone, cidade e senha. |
 | **RF02** | O sistema deve permitir que o usuário cadastrado faça login com e-mail e senha e encerre a sessão (logout). |
 | **RF03** | O sistema deve permitir que uma ONG solicite cadastro informando nome, CNPJ, endereço, telefone e e-mail, ficando com status "pendente" até a aprovação. |
@@ -22,8 +22,8 @@
 
 ### 2.2 Requisitos Não Funcionais
 
-| ID | Categoria | Descrição |
-|---|---|---|
+| ID | Categoria | Descrição | Prioridade | Depende de |
+|---|---|---|---|---|
 | **RNF01** | Usabilidade / Portabilidade | O sistema deve ser responsivo, adaptando-se a computadores, tablets e celulares, e funcionar nos principais navegadores.|
 | **RNF02** | Desempenho | As páginas de listagem e os resultados de busca devem carregar em até 3 segundos. |
 | **RNF03** | Segurança | As senhas devem ser armazenadas com criptografia e toda a comunicação deve ocorrer via HTTPS. |
@@ -34,7 +34,7 @@
 
 ### 2.3 Regras de Negócio
 
-| ID | Descrição |
-|---|---|
+| ID | Descrição | Prioridade | Depende de | 
+|---|---|---|---|
 | **RN01** | Somente ONGs aprovadas pelo administrador podem cadastrar animais para adoção. Usuários comuns não podem publicar anúncios de adoção. |
 | **RN02** | A plataforma apenas intermedeia o contato entre interessados e ONGs. O processo de adoção (entrevista, termo e entrega do animal) é de responsabilidade exclusiva da ONG. |
