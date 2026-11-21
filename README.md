@@ -52,3 +52,4 @@ O Conexão Pet resolve esses problemas ao reunir todas essas informações em um
 
 ## 2. [Requisitos do Projeto](./Requisitos.md)
 
+## 3. [Casos de Uso](./CasosDeUso.md)
