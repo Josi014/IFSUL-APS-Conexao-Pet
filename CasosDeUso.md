@@ -6,3 +6,6 @@
 
 ### UC02 — Avaliar cadastro de ONG
 ![UC02 — Avaliar cadastro de ONG](images/uc02.png)
+
+### UC03 — Manter animal para adoção
+![UC03 — Manter animal para adoção](images/uc03.png)
